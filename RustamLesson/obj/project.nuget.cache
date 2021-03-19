@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YukZVJ9cbbQ6BskDdR9pbbxo5ogx6HGL81gjKqjPSx7M+H3JbB+6tps9pXpvtP7mVE0iwRsNvcYpwUBZU+al2g==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\RustamLesson\\RustamLesson\\RustamLesson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rave9\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.1\\swashbuckle.aspnetcore.swagger.6.1.1.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.1\\swashbuckle.aspnetcore.swaggergen.6.1.1.nupkg.sha512",
+    "C:\\Users\\rave9\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.1\\swashbuckle.aspnetcore.swaggerui.6.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
