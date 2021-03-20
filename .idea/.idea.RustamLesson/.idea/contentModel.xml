@@ -10,8 +10,10 @@
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="IMoveable.cs" t="Include" />
         <e p="IUserExtendedService.cs" t="Include" />
         <e p="IUserService.cs" t="Include" />
+        <e p="MyFirstController.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">

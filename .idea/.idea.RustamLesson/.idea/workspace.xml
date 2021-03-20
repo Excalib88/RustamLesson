@@ -4,7 +4,20 @@
     <projectFile>RustamLesson/RustamLesson.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac9a12ab-60a6-455b-b68b-384d8837d98a" name="Default Changelist" comment="" />
+    <list default="true" id="ac9a12ab-60a6-455b-b68b-384d8837d98a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/RustamLesson/IMoveable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RustamLesson/MyFirstController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RustamLesson/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RustamLesson/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RustamLesson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RustamLesson/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RustamLesson/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RustamLesson/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RustamLesson/UserController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RustamLesson/UserController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RustamLesson/UserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RustamLesson/UserService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RustamLesson/bin/Debug/netcoreapp3.1/RustamLesson.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RustamLesson/bin/Debug/netcoreapp3.1/RustamLesson.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RustamLesson/bin/Debug/netcoreapp3.1/RustamLesson.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RustamLesson/bin/Debug/netcoreapp3.1/RustamLesson.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RustamLesson/obj/Debug/netcoreapp3.1/RustamLesson.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RustamLesson/obj/Debug/netcoreapp3.1/RustamLesson.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RustamLesson/obj/Debug/netcoreapp3.1/RustamLesson.dll" beforeDir="false" afterPath="$PROJECT_DIR$/RustamLesson/obj/Debug/netcoreapp3.1/RustamLesson.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RustamLesson/obj/Debug/netcoreapp3.1/RustamLesson.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/RustamLesson/obj/Debug/netcoreapp3.1/RustamLesson.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,13 +36,17 @@
       <option value="$PROJECT_DIR$/RustamLesson/IUserService.cs" />
       <option value="$PROJECT_DIR$/RustamLesson/IUserExtendedService.cs" />
       <option value="$PROJECT_DIR$/RustamLesson/User.cs" />
+      <option value="$PROJECT_DIR$/RustamLesson/Startup.cs" />
+      <option value="$PROJECT_DIR$/RustamLesson/MyFirstController.cs" />
+      <option value="$PROJECT_DIR$/RustamLesson/IMoveable.cs" />
       <option value="$PROJECT_DIR$/RustamLesson/UserController.cs" />
       <option value="$PROJECT_DIR$/RustamLesson/UserService.cs" />
-      <option value="$PROJECT_DIR$/RustamLesson/Startup.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1pjvg2nfwEhEFr0kiw3VpZeeMvF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -91,7 +108,8 @@
       <updated>1615709424767</updated>
       <workItem from="1615709433789" duration="4628000" />
       <workItem from="1616167995594" duration="2078000" />
-      <workItem from="1616170220306" duration="2594000" />
+      <workItem from="1616170220306" duration="3943000" />
+      <workItem from="1616267119962" duration="3285000" />
     </task>
     <servers />
   </component>
@@ -110,6 +128,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

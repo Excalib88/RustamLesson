@@ -12,6 +12,7 @@ namespace RustamLesson
 		{
 			_userService = userService;
 		}
+
 		//	user/get
 		[HttpGet("get")]
 		public IActionResult GetUser()
